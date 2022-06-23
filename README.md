@@ -8,5 +8,5 @@
 
 <br />
 
-## [🌐 배포]()
+## [🌐 배포](https://thisisyjin.github.io/blogs-mockup/)
 - `gh-pages` 로 배포
